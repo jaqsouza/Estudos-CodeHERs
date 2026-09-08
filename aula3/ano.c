@@ -3,7 +3,7 @@
 int main(void){
     int ano;
 
-    printf("Em que ano está?: ");
+    printf("Em que ano você está?: ");
     scanf("%d", &ano);
     printf("Se este ano é %d\n", ano++);
     printf("Ano que vem será %d\n", ano);
