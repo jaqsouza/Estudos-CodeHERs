@@ -61,6 +61,6 @@ int main(void) {
 
     } while (opcao != 0);
 
-    printf("Até logo!\n");
+    printf("Tente novamente!\n");
     return 0;
 }
